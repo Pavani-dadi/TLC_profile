@@ -19,3 +19,6 @@ This code is written on Python 3, which gives the intensity profiles of differen
 5. Before running the cell4, change the number of lanes according to your image.
 6. After running cell5, an image will be generated in a diffrent window where you need to select the lanes on the plate for intensity assessement.
 7. After the lane selection, a CSV file will be generated.
+
+# Citation
+Pavani Dadi, Clint W. Pauling, Abhishek Shrivatsava, Dhara D. Shah. Synthesis of versatile neuromodulatory molecules by a gut microbial glutamate decarboxylase ( currently in review)
