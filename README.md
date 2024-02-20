@@ -1,4 +1,4 @@
-# TLC_Intensity
+# TLC_Profiles
 This code is written on Python 3, which gives the intensity profiles of different spots form a TLC plate.
 
 # Following packages are required for this code
